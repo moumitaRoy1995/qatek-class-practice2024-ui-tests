@@ -19,7 +19,7 @@ public class SeleniumGrid_Firefox1 {
         FirefoxOptions firefoxOptions = new FirefoxOptions();
         try
         {
-            gridUrl = new URL("http://54.237.87.51:4444/wd/hub");
+            gridUrl = new URL("http://3.89.160.177:4444/wd/hub");
         }
         catch (Exception e)
         {
